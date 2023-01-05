@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![convergence curve](C:\Users\dell\Desktop\研究生\个人算法主页\Ant Lion Optimizer\convergence curve.png)
+![](https://github.com/Xavier-MaYiMing/Ant-Lion-Optimizer/blob/main/convergence%20curve.png)
 
 The IWO converges at its 2000-th iteration, and the global best value is 4.270541704648386e-08.
 
